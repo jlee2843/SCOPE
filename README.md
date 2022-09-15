@@ -1,6 +1,11 @@
 # Stabilized COre gene and Pathway Election
 Implementing the SCOPE algorithm on GSE98394 dataset. This research project was funded by **Alberta Innovates** in 2022. 
 
+## Project Roadmap
+- SCOPE-Stabilized LASSO Regression (bootstrapped LASSO regression)
+- Co-expression analysis and differential co-expression analysis
+- Pathway Enrichment with Over Representation Analysis
+
 ## Dataset
 - Retrieved from NCBI: [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE98394). 
 - Contains transcriptome data of 78 treatment-naive melanocytic tumor patients. The patients' stage of cancer varies from benign (common acquired nevus) to malignant (primary melanoma).
