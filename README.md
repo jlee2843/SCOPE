@@ -1,5 +1,5 @@
 # Stabilized COre gene and Pathway Election
-Implementing the SCOPE algorithm on GSE98394 dataset. 
+Implementing the SCOPE algorithm on GSE98394 dataset. This research project was funded by **Alberta Innovates** in 2022. 
 
 ## Dataset
 - Retrieved from NCBI: [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE98394). 
