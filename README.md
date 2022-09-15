@@ -1,5 +1,9 @@
-# SCOPE
+# Stabilized COre gene and Pathway Election
 Implementing the SCOPE algorithm on GSE98394 dataset. 
+
+## Dataset
+- Retrieved from NCBI: [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE98394). 
+- Contains transcriptome data of 78 treatment-naive melanocytic tumor patients. The patients' stage of cancer varies from benign to malignant.
 
 ---
 ### References
