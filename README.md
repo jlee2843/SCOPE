@@ -1,6 +1,7 @@
 # Stabilized COre gene and Pathway Election
 **Presenter**: Jenny Lee  |  **Supervisor**: Pathum Kossinna  |  **Collaborator**: Dr. Cai 
-<br>Implementing the SCOPE algorithm on GSE98394 dataset. This research project was funded by **Alberta Innovates** in 2022 under the supervision of [Dr.Zhang's Lab in Biostatistics & Health Data Science](https://sites.google.com/site/qingrunzhang/home?authuser=0). 
+
+Implementing the SCOPE algorithm on GSE98394 dataset. This research project was funded by **Alberta Innovates** in 2022 under the supervision of [Dr.Zhang's Lab in Biostatistics & Health Data Science](https://sites.google.com/site/qingrunzhang/home?authuser=0). 
 
 ## Project Roadmap
 - SCOPE-Stabilized LASSO Regression (bootstrapped LASSO regression)
