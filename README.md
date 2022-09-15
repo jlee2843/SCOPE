@@ -3,7 +3,7 @@ Implementing the SCOPE algorithm on GSE98394 dataset. This research project was 
 
 ## Dataset
 - Retrieved from NCBI: [Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE98394). 
-- Contains transcriptome data of 78 treatment-naive melanocytic tumor patients. The patients' stage of cancer varies from benign to malignant.
+- Contains transcriptome data of 78 treatment-naive melanocytic tumor patients. The patients' stage of cancer varies from benign (common acquired nevus) to malignant (primary melanoma).
 
 ## References
 <sup>[1]</sup> Kossinna, P. (2022). *Analyzing Biological Interactions using Stabilized Machine Learning Models*[Unpublished master's thesis]. University of Calgary.  
